@@ -1,8 +1,11 @@
 # A mod for calcium_servate! 
 
+Adds new weapons and blocks to the game. 
+
 ## Setup
 
 Add any released jars to your mods folder. 
+
 
 ## License
 
